@@ -1,0 +1,15 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "mon cv",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "resume"
+  },
+  "author": "Setra Solofoniaina",
+  "license": "ISC"
+}
