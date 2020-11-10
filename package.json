@@ -4,12 +4,15 @@
   "description": "mon cv",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "build-css": "tailwindcss build src/tailwind.css -o public/style.css"
   },
   "repository": {
     "type": "git",
     "url": "resume"
   },
   "author": "Setra Solofoniaina",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.7.3"
+  }
 }
